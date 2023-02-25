@@ -1,6 +1,6 @@
 # Basic Python Binary Search
 
-A basic binary search algorithm in Python.
+Binary search and bubble sort algorithms in Python.
 
 Most likely very inefficient, and has terrible modularisation.
 
