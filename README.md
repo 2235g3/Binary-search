@@ -1,4 +1,4 @@
-# Basic Python Binary Search
+# Python Binary Search and Bubble Sort
 
 Binary search and bubble sort algorithms in Python.
 
